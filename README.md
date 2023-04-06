@@ -1,0 +1,2 @@
+# gostd
+Go Standard
